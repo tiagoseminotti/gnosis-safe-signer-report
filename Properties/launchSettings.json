@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "gnosis-safe-signer-report": {
+      "commandName": "Project",
+      "commandLineArgs": "4 2022"
+    }
+  }
+}
